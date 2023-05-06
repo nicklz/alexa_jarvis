@@ -1,8 +1,8 @@
 .DS_Store
-lambda/node_modules
+node_modules
 .ask/
 ask-resources.json
 manifest.json
 skill-package/
 .ask/
-lambda/keys.js
+keys.js
